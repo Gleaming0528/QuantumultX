@@ -1,0 +1,2 @@
+# work
+HOST-SUFFIX, docker.io, PROXY
