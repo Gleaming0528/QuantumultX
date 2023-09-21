@@ -1,2 +1,3 @@
 # work
 HOST-SUFFIX, docker.io, PROXY
+HOST-SUFFIX, github.com, PROXY
