@@ -1,0 +1,3 @@
+# li xiang代理设置
+HOST-SUFFIX, lixiang.com, direct
+HOST-SUFFIX, chehejia.com, direct
