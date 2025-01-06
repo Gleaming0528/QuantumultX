@@ -1,0 +1,3 @@
+# phigent代理设置
+HOST-SUFFIX, phigent.net, direct
+HOST-SUFFIX, phigent.io, direct
