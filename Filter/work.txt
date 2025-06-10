@@ -3,21 +3,5 @@ HOST-SUFFIX, docker.io, PROXY
 HOST-SUFFIX, github.com, PROXY
 HOST-SUFFIX, v2ex.com, PROXY
 
-# NAME: OpenAI
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-HOST-SUFFIX, ai.com, PROXY
-HOST-SUFFIX, auth0.com, PROXY
-HOST-SUFFIX, challenges.cloudflare.com, PROXY
-HOST-SUFFIX, client-api.arkoselabs.com, PROXY
-HOST-SUFFIX, events.statsigapi.net, PROXY
-HOST-SUFFIX, featuregates.org, PROXY
-HOST-SUFFIX, identrust.com, PROXY
-HOST-SUFFIX, intercom.io, PROXY
-HOST-SUFFIX, intercomcdn.com, PROXY
-HOST-SUFFIX, poe.com, PROXY
-HOST-SUFFIX, sentry.io, PROXY
-HOST-SUFFIX, stripe.com, PROXY
-HOST-KEYWORD, openai, PROXY
 
 HOST-SUFFIX, ziroom.com, direct
