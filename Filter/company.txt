@@ -3,3 +3,4 @@ HOST-SUFFIX, phigent.net, direct
 HOST-SUFFIX, phigent.io, direct
 HOST-SUFFIX, baidubce.com, direct
 HOST-SUFFIX, hellobike.cn, direct
+HOST-SUFFIX, hellobike.com, direct
