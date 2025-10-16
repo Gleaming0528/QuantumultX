@@ -7,3 +7,4 @@ HOST-SUFFIX, hellobike.com, direct
 HOST-SUFFIX, dingtalk.com, direct
 HOST-SUFFIX, aliyun.com, direct
 HOST-SUFFIX, cip.cc, direct
+HOST-SUFFIX, ziroom.com, direct

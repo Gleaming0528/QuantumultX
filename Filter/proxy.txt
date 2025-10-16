@@ -4,4 +4,3 @@ HOST-SUFFIX, github.com, PROXY
 HOST-SUFFIX, v2ex.com, PROXY
 
 
-HOST-SUFFIX, ziroom.com, direct
