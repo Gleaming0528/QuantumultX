@@ -2,5 +2,8 @@
 HOST-SUFFIX, docker.io, PROXY
 HOST-SUFFIX, github.com, PROXY
 HOST-SUFFIX, v2ex.com, PROXY
+DOMAIN-SUFFIX, anaconda.com, Proxy
+DOMAIN-SUFFIX, anaconda.org, Proxy
+DOMAIN-SUFFIX, mamba.pm, Proxy
 
 
