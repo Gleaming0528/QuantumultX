@@ -5,5 +5,6 @@ HOST-SUFFIX, v2ex.com, PROXY
 DOMAIN-SUFFIX, anaconda.com, Proxy
 DOMAIN-SUFFIX, anaconda.org, Proxy
 DOMAIN-SUFFIX, mamba.pm, Proxy
+DOMAIN-SUFFIX, brew.sh, Proxy
 
 
