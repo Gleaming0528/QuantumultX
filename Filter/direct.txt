@@ -4,6 +4,7 @@ HOST-SUFFIX, phigent.io, direct
 HOST-SUFFIX, baidubce.com, direct
 HOST-SUFFIX, hellobike.cn, direct
 HOST-SUFFIX, hellobike.com, direct
+HOST-SUFFIX, hellorobotaxi.top, direct
 HOST-SUFFIX, dingtalk.com, direct
 HOST-SUFFIX, aliyun.com, direct
 HOST-SUFFIX, aliyuncs.com, direct
