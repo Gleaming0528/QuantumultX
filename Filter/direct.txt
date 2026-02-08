@@ -12,3 +12,5 @@ HOST-SUFFIX, aliyun.com, direct
 HOST-SUFFIX, aliyuncs.com, direct
 HOST-SUFFIX, cip.cc, direct
 HOST-SUFFIX, ziroom.com, direct
+HOST-SUFFIX, tailscale.com, direct
+HOST-SUFFIX, tailscale.io, direct
