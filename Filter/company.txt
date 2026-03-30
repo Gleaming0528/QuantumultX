@@ -6,6 +6,7 @@ HOST-SUFFIX, hellobike.cn, HelloBike-WG
 HOST-SUFFIX, hellobike.com, HelloBike-WG
 HOST-SUFFIX, hellorobotaxi.top, HelloBike-WG
 HOST-SUFFIX, hellorobotaxi.com, HelloBike-WG
+HOST, hellobike.yuque.com, HelloBike-WG
 
 # ==================== 内网网段 ====================
 IP-CIDR, 10.0.0.0/8, HelloBike-WG
