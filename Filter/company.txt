@@ -4,6 +4,7 @@
 # ==================== 公司域名 ====================
 HOST-SUFFIX, hellobike.cn, HelloBike-WG
 HOST-SUFFIX, hellobike.com, HelloBike-WG
+HOST-SUFFIX, oss-cn-shanghai-internal.aliyuncs.com, HelloBike-WG
 HOST-SUFFIX, hellorobotaxi.top, HelloBike-WG
 HOST-SUFFIX, hellorobotaxi.com, HelloBike-WG
 HOST, hellobike.yuque.com, HelloBike-WG
