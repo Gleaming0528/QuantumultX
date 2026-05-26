@@ -10,3 +10,4 @@ HOST-SUFFIX, cip.cc, direct
 HOST-SUFFIX, ziroom.com, direct
 HOST-SUFFIX, tailscale.com, direct
 HOST-SUFFIX, tailscale.io, direct
+HOST-SUFFIX, snssdk.com, direct
